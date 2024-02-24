@@ -9,7 +9,7 @@ Predictive analytics with SQL Server and Python examples for use in Pluralsight 
 - [Demo 01 Data Preparation Techniques](https://github.com/SimoCs/)
 - [Demo 02 Constructing a Basic Predictive Model](https://github.com/SimoCs/)
 - [Demo 03 Moving Averages and Exponential Smoothing](https://github.com/SimoCs/)
-- [06 Demo Building Validation and Application of an Advanced Model](https://github.com/SimoCs/)
+- [Demo 04 Building Validation and Application of an Advanced Model](https://github.com/SimoCs/)
 
 # Connect with me
 I am a very curious individual. Learning is my drive in life, and technology is the language I speak!
