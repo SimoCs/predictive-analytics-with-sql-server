@@ -7,7 +7,7 @@ Predictive analytics with SQL Server and Python examples for use in Pluralsight 
 | Python | 3.12.2 |
 
 - [Demo 01 Data Preparation Techniques](https://github.com/SimoCs/predictive-analytics-with-sql-server/blob/main/Demo%2001%20Data%20Preparation%20Techniques.ipynb)
-- [Demo 02 Constructing a Basic Predictive Model](https://github.com/SimoCs/)
+- [Demo 02 Constructing a Basic Predictive Model](https://github.com/SimoCs/predictive-analytics-with-sql-server/blob/main/Demo%2002%20Constructing%20a%20Basic%20Predictive%20Model.ipynb)
 - [Demo 03 Moving Averages and Exponential Smoothing](https://github.com/SimoCs/)
 - [Demo 04 Building Validation and Application of an Advanced Model](https://github.com/SimoCs/)
 
